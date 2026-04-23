@@ -1,11 +1,5 @@
 # AgentOps SaaS Starter
 
-This workspace bootstraps the roadmap in this order: 1 -> 3 -> 2
-
-1. Next.js production dashboard UI
-3. Alert system (Slack/webhook threshold checks)
-2. Team/organization multi-tenant billing model
-
 ## Backend (FastAPI)
 
 ```bash
